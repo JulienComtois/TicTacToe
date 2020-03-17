@@ -1,0 +1,11 @@
+E:\Programming\VS\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\Programming\VS\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\Programming\VS\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Menu.resources
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MainGame.resources
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Settings.resources
+E:\Programming\VS\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
